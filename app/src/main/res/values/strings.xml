@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Licenta</string>
+    <string name="Sportify">Sportify</string>
+    <string name="Create">Create New Account</string>
+    <string name="f">Already Register? Login Here</string>
+    <string name="nume">Full Name</string>
+    <string name="email">Email</string>
+    <string name="parola">Password</string>
+    <string name="but">Register</string>
+    <string name="n">New Here? Create Account</string>
+    <string name="login">Login</string>
+    <string name="notificari">Notificationsnotificari</string>
+    <string name="noti">Notifications</string>
+    <string name="setari">Settings</string>
+    <string name="profil">My profile</string>
+    <string name="minge">ball</string>
+    <string name="delogare">LOGOUT</string>
+    <string name="show">Show</string>
+    <string name="fotbal">Fotbal</string>
+    <string name="Jogging">Jogging</string>
+    <string name="alege">Choose a sport</string>
+    <string name="Done">Done</string>
+    <string name="imagine">Profile picture</string>
+    <string name="descriere">Description</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="back">BACK</string>
+</resources>
